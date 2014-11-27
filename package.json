@@ -1,0 +1,11 @@
+{
+  "name": "apidoc-example",
+  "version": "0.0.1",
+  "description": "Api Node/Express que utiliza ApiDoc.js",
+  "main": "app.js",
+  "author": "Caio Ribeiro Pereira",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.10.4"
+  }
+}
